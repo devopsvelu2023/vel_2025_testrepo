@@ -1,5 +1,9 @@
 This is line no 10
+<<<<<<< HEAD
 This line is modified in master
+=======
+These are modified in line no 2 in dev
+>>>>>>> dev : I keep the changes as it is
 This is line no 12
 This is line no 13
 This is line no 14
